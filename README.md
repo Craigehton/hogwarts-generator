@@ -5,4 +5,6 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+If you would like to see this project live, head on over to:
+
+https://hogwarts-counter.netlify.app
